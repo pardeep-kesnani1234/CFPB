@@ -1,0 +1,16 @@
+streamlit==1.1.0
+plotly == 5.3.1
+pandas==1.2.4
+requests==2.26.0
+pymongo == 3.11.0
+bson
+Flask==1.1.1
+Flask_Cors==3.0.8
+gunicorn==19.9.0
+opencv-contrib-python-headless==4.2.0.34
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+Werkzeug==0.15.5
+xlrd == 1.2.0
+ 
