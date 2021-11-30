@@ -7,7 +7,6 @@ bson
 Flask==1.1.1
 Flask_Cors==3.0.8
 gunicorn==20.1.0
-opencv-contrib-python-headless==4.2.0.34
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
